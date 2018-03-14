@@ -490,5 +490,8 @@ h6,
   border-color: #f2f2f2;
 }
 #form1-3 .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-3 SMALL {
+  color: #ffffff;
 }
