@@ -26,7 +26,9 @@
     },
     "versionFirst": "4.6.5",
     "uniqCompNum": 4,
-    "versionPublish": "4.6.5"
+    "versionPublish": "4.6.5",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -162,7 +164,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-837-750x1334.png",
               "link": "",
               "alt": "",
               "title": ""
